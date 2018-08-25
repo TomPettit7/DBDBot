@@ -74,7 +74,7 @@ def comment_monitor():
 
 dev_comment_links = []
 def dev_comments_collect():
-    devs = ['tozzer7']
+    devs = [list of the BHVR devs]
     dev_comments = []
     subreddit = r.subreddit('deadbydaylight')
     for submission in subreddit.new():
